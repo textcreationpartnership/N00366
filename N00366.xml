@@ -116,8 +116,9 @@
    <text xml:lang="eng">
       <front>
          <div type="title_page">
-            <pb facs="tcp:000448_0000_0FA5B071819F2558"/>
-            <pb facs="tcp:000448_0001_0FA5B0720EB8A570" rendition="simple:additions"/>
+            <pb facs="unknown:000448_0000_0FA5B071819F2558"/>
+            <pb facs="unknown:000448_0001_0FA5B0720EB8A570"
+                rendition="simple:additions"/>
             <p>ARTICLES Agreed upon by the <hi>ARCHBISHOPS</hi> and <hi>BISHOPS</hi> Of both Provinces, and the whole CLERGY In the CONVOCATION holden at <hi>LONDON</hi> In the Year <hi>MDLXII.</hi>
             </p>
             <p>For the avoiding of <hi>Diversities of Opinions,</hi> and for the Stablishing of Consent touching <hi>True RELIGION.</hi>
@@ -129,7 +130,7 @@
       </front>
       <body>
          <div type="articles">
-            <pb facs="tcp:000448_0002_0FA5B07581EF3D40"/>
+            <pb facs="unknown:000448_0002_0FA5B07581EF3D40"/>
             <head>ARTICLES of <hi>RELIGION.</hi>
             </head>
             <div n="1" type="article">
@@ -145,7 +146,7 @@
                <p>AS Christ died for us, and was buried: so also is it to be be<g ref="char:EOLhyphen"/>lieved that He went down into Hell.</p>
             </div>
             <div n="4" type="article">
-               <pb facs="tcp:000448_0003_0FA5B076B2512E08"/>
+               <pb facs="unknown:000448_0003_0FA5B076B2512E08"/>
                <head>IV. Of the Resurrection of Christ.</head>
                <p>CHrist did truly rise again from Death, and took again His bo<g ref="char:EOLhyphen"/>dy, with flesh, bones, and all things appertaining to the per<g ref="char:EOLhyphen"/>fection of man's Nature, wherewith He ascended into Heaven, and there sitteth, until He return to judge all men at the last Day,</p>
             </div>
@@ -231,7 +232,7 @@
                   </item>
                </list>
                <p>
-                  <pb facs="tcp:000448_0004_0FA5B07885E9FA20"/>And the other Books (as <hi>Hierome</hi> saith) the Church doth read for example of life, and instruction of manners; but yet doth it not apply them <hi>to establish any Doctrine</hi>: such as are these following,
+                  <pb facs="unknown:000448_0004_0FA5B07885E9FA20"/>And the other Books (as <hi>Hierome</hi> saith) the Church doth read for example of life, and instruction of manners; but yet doth it not apply them <hi>to establish any Doctrine</hi>: such as are these following,
 <list>
                      <item>
                         <hi>The</hi> 3. <hi>Book of Esdras,</hi>
@@ -288,7 +289,7 @@
                <p>THe three Creeds, Nice Creed, Athanasius Creed, and that which is commonly called the Apostles Creed, ought through<g ref="char:EOLhyphen"/>ly to be received and believed: for they may be proved by most certain Warrants of Holy Scripture.</p>
             </div>
             <div n="9" type="article">
-               <pb n="4" facs="tcp:000448_0005_0FA5B0794392EAC0"/>
+               <pb n="4" facs="unknown:000448_0005_0FA5B0794392EAC0"/>
                <head>IX. Of original Birth or Sin.</head>
                <p>ORiginal Sin standeth not in the Following of <hi>Adam,</hi> (as the <hi>Pelagians</hi> do vainly talk) but it is the Fault, and Corrup<g ref="char:EOLhyphen"/>tion, of the Nature of every man that naturally is ingendred of the offspring of <hi>Adam,</hi> whereby man is very far gone from ori<g ref="char:EOLhyphen"/>ginal Righteousness, and is of his own nature inclined to evil, so that the Flesh lusteth always contrary to the Spirit, and there<g ref="char:EOLhyphen"/>fore in every Person born into this world, it deserveth GOD's Wrath, and Damnation. And this infection of nature doth re<g ref="char:EOLhyphen"/>main, yea, in them that are regenerated, whereby the Lust of the Flesh, called in Greek, <hi>Phronema <gap reason="illegible: indecipherable" extent="1 word">
                         <desc>〈◊〉</desc>
@@ -304,7 +305,7 @@
                </p>
             </div>
             <div n="12" type="article">
-               <pb n="5" facs="tcp:000448_0006_0FA5B079A0467B50"/>
+               <pb n="5" facs="unknown:000448_0006_0FA5B079A0467B50"/>
                <head>XII. Of Good Works.</head>
                <p>ALbeit that Good works, which are the Fruits of <gap reason="illegible: indecipherable" extent="1 word">
                      <desc>〈◊〉</desc>
@@ -324,7 +325,7 @@
             <div n="15" type="article">
                <head>XV. Of CHRIST alone without Sin.</head>
                <p>CHRIST in the truth of our nature, was made like unto us in all things, Sin only except, from which He was clearly void both in His flesh and in Spirit. He came to be a Lamb with<g ref="char:EOLhyphen"/>out spot, who by Sacrifice of Himself once made, should take away the sins of the World: and Sin (as St. <hi>John</hi> saith) was not in
-<pb n="6" facs="tcp:000448_0007_0FA5B07A624BC900"/>
+<pb n="6" facs="unknown:000448_0007_0FA5B07A624BC900"/>
 Him. But all we, the rest, altho' Baptized, and born again in Christ, yet offend in many things, and if we say we have no sin, we deceive our selves and the Truth is not in us.</p>
             </div>
             <div n="16" type="article">
@@ -337,7 +338,7 @@ Him. But all we, the rest, altho' Baptized, and born again in Christ, yet offend
                   <hi>XVII.</hi> Of Predestination and Election.</head>
                <p>PRedestination to Life, is the everlasting purpose of GOD, whereby (before the Foundations of the world were laid) He hath constantly Decreed by His Counsel, secret to us, to deliver from Curse and Damnation, those whom He hath chosen in Christ out of Mankind, and to bring them by Christ to everlasting Sal<g ref="char:EOLhyphen"/>vation, as vessels made to Honour. Wherefore they which be endued with so excellent a Benefit of God, be called according to God's purpose by His Spirit working in due season: they through Grace obey the Calling: they be justified freely: they be made sons of God by Adoption: they be made like the Image of His on<g ref="char:EOLhyphen"/>ly begotten Son JESUS CHRIST: they walk religiously in Good Works, and at length by GOD's Mercy they attain to everlast<g ref="char:EOLhyphen"/>ing Felicity.</p>
                <p>As the godly Consideration of predestination and our Election in Christ, is full of sweet, pleasant, and unspeakable Comfort to godly persons, and such as feel in themselves the working of the Spirit of Christ, mortifying the works of the Flesh, and their earthly Members, and drawing up their mind to high and heaven<g ref="char:EOLhyphen"/>ly things, as well because it doth greatly establish &amp; confirm their Faith of eternal Salvation, to be enjoyed through Christ, as be<g ref="char:EOLhyphen"/>cause
-<pb n="7" facs="tcp:000448_0008_0FA5B07B1028E2F8"/>
+<pb n="7" facs="unknown:000448_0008_0FA5B07B1028E2F8"/>
 it doth frequently kindle their Love towards God: So, for curious and carnal persons, lacking the Spirit of Christ, to have continually before their eyes the sentence of God's Predestination, is a most dangerous down-fall, whereby the devil doth thrust them either into desperation, or into wretchlesness of unclean Living, no less perilous than Desperation.</p>
                <p>Furthermore, we must receive God's Promises in such wise as they be generally set forth to us in Holy Scripture: and in our Do<g ref="char:EOLhyphen"/>ings, that Will of God is to be followed, which we have expresly declared unto us in the word of God.</p>
             </div>
@@ -358,7 +359,7 @@ it doth frequently kindle their Love towards God: So, for curious and carnal per
                <p>THe Church hath Power to decree Rites or Ceremonies, and Authority in Controversies of Faith: And yet it is not law<g ref="char:EOLhyphen"/>ful for the Church to ordain any thing that is contrary to God's Word written, neither may it so expound one place of Scripture, that it be repugnant to another. Wherefore although the Church be a Witness and a Keeper of Holy Writt, yet as it ought not to decree any thing against the same, so besides the same ought it not to enforce any thing to believed for necessity of Salvation.</p>
             </div>
             <div n="21" type="article">
-               <pb n="8" facs="tcp:000448_0009_0FA5B07BE192E110"/>
+               <pb n="8" facs="unknown:000448_0009_0FA5B07BE192E110"/>
                <head>
                   <hi>XXI.</hi> Of the Authority of General Councils.</head>
                <p>GEneral Councels may not be gathered together without the Commandment and Will of Princes: and when they be ga<g ref="char:EOLhyphen"/>thered together (forasmuch as they be an assembly of men, where<g ref="char:EOLhyphen"/>of all be not governed with the Spirit and Word of GOD) they may err, &amp; sometime <hi>have</hi> erred, even in things pertaining unto God. Wherefore things ordained by them as necessary to Salva<g ref="char:EOLhyphen"/>tion, have neither Strength nor Authority, unless it may be de<g ref="char:EOLhyphen"/>clared that they be taken out of holy Scripture.</p>
@@ -383,7 +384,7 @@ it doth frequently kindle their Love towards God: So, for curious and carnal per
                <head>XXV. Of the Sacrament,</head>
                <p>SAcraments ordained of Christ, be not only Badges or tokens of Christian mens Profession; but rather they be certain sure Witnesses, and effectual Signs of Grace, and God's Good Will to<g ref="char:EOLhyphen"/>wards us, by the which He doth work invisibly in us, and doth not only <hi>quicken,</hi> but also <hi>strengthen</hi> and <hi>confirm</hi> our <hi>Faith</hi> in Him.</p>
                <p>
-                  <pb n="9" facs="tcp:000448_0010_0FA5B07C87F0B318"/>There are two Sacraments ordained of Christ our Lord in the Gospel, that is to say, <hi>Baptism,</hi> and <hi>the Supper of the Lord.</hi>
+                  <pb n="9" facs="unknown:000448_0010_0FA5B07C87F0B318"/>There are two Sacraments ordained of Christ our Lord in the Gospel, that is to say, <hi>Baptism,</hi> and <hi>the Supper of the Lord.</hi>
                </p>
                <p>Those five commonly called Sacraments, that is to say, <hi>Confir<g ref="char:EOLhyphen"/>mation, Penance, Orders, Matrimony,</hi> and <hi>Extreme Vnction,</hi> are not to be counted for Sacraments of the Gospel, being such as have grown, partly of the corrupt following of the Apostles, partly are states of life allowed by the Scriptures: but yet have not like na<g ref="char:EOLhyphen"/>ture of Sacraments, with <hi>Baptism</hi> and the <hi>Lord's Supper,</hi> for that they have not any visible Sign or Ceremony ordained of God.</p>
                <p>The Sacraments were not ordained of Christ to be gazed upon, or to be Carried about, but that we should duly use them. And in such only as worthily receive the same, they have a wholsom effect or operation: but they that receive them unworthily, pur<g ref="char:EOLhyphen"/>chase to themselves Damnation, as St. <hi>Paul</hi> saith,</p>
@@ -398,7 +399,7 @@ it doth frequently kindle their Love towards God: So, for curious and carnal per
                <head>
                   <hi>XXVII.</hi> Of Baptism.</head>
                <p>BAptism is not only a Sign of Profession, and mark of Difference whereby Christian men are discerned from others that be not Christned: but it is also a sign of Regeneration or new Birth, whereby, as by an instrument, they that receive Baptism rightly,
-<pb n="10" facs="tcp:000448_0011_0FA5B07D46475878"/>
+<pb n="10" facs="unknown:000448_0011_0FA5B07D46475878"/>
 are grafted into the Church: the promises of the Forgiveness of sin, and of our adoption to be the Sons of God, by the Holy Ghost, are visibly signed and sealed: Faith is confirmed, and Grace in<g ref="char:EOLhyphen"/>creased by virtue of Prayer unto God The Baptism of young Children is in any wise to be retained in the Church, as most a<g ref="char:EOLhyphen"/>greeable with the Institution of Christ.</p>
             </div>
             <div n="28" type="article">
@@ -421,7 +422,7 @@ are grafted into the Church: the promises of the Forgiveness of sin, and of our 
                <p>THe Cup of the Lord is not to be denied to the Lay-people: for both the parts of the Lords Sacrament by Christs <hi>Ordinance</hi> &amp; <hi>Commandment,</hi> ought to be ministred to all Christian men alike.</p>
             </div>
             <div n="31" type="article">
-               <pb n="11" facs="tcp:000448_0012_0FA5B0810DC60BF8"/>
+               <pb n="11" facs="unknown:000448_0012_0FA5B0810DC60BF8"/>
                <head>
                   <hi>XXXI.</hi> Of the one Oblation of Christ, finished upon the Cross.</head>
                <p>THe Offering of Christ once made, is that perfect Redemption, Propitiation, and Satisfaction for all the sins of the whole world, both Original and Actual, and there is none other Satis<g ref="char:EOLhyphen"/>faction for sin, but that alone. Wherefore the Sacrifices of Mas<g ref="char:EOLhyphen"/>ses, in the which it was commonly said, that the Priest did offer Christ for the quick and the dead, to have Remission of pain or guilt, were blasphemous Fables and dangerous Deceits.</p>
@@ -443,7 +444,7 @@ are grafted into the Church: the promises of the Forgiveness of sin, and of our 
                      <desc>••</desc>
                   </gap>eth the Authority of the Magistrate, and woundeth the Consciences of the weak Brethren.</p>
                <p>
-                  <pb n="12" facs="tcp:000448_0013_0FA5B082473058E8"/>Every particular or National Church, hath Authority to ordain, change, and abolish Ceremonies or Rites of the Church, ordained only by <hi>man</hi>'s Authority, so that all things be done to edifying.</p>
+                  <pb n="12" facs="unknown:000448_0013_0FA5B082473058E8"/>Every particular or National Church, hath Authority to ordain, change, and abolish Ceremonies or Rites of the Church, ordained only by <hi>man</hi>'s Authority, so that all things be done to edifying.</p>
             </div>
             <div n="35" type="article">
                <head>
@@ -498,7 +499,7 @@ are grafted into the Church: the promises of the Forgiveness of sin, and of our 
             <div n="36" type="article">
                <head>XXXVI. Of Consecration of Bishops and Ministers.</head>
                <p>THe Book of Consecration of Archbishops &amp; Bishops, and Or<g ref="char:EOLhyphen"/>dering of Priests &amp; Deacons, lately set forth in the time of <hi>Edward</hi> the 6. and confirmed at the same time by the Authority of Parliament, doth contain all things necessary to such Consecration &amp; Ordering: neither hath it any thing that of it self is supersti<g ref="char:EOLhyphen"/>tious &amp; and ungodly. And therefore whosoever are Consecrated, or Ordered according to the Rites of that Book, since the 2<hi>nd</hi> year of the aforenamed K. <hi>Edward,</hi> unto this time, or hereafter <hi>shall</hi> be
-<pb n="13" facs="tcp:000448_0014_0FA5B0828A5AECB8"/>
+<pb n="13" facs="unknown:000448_0014_0FA5B0828A5AECB8"/>
 Consecrated or Ordered according to the same Rites, we decree all such to be rightly, orderly, and lawfully Consecrated &amp; Ordered.</p>
             </div>
             <div n="37" type="article">
@@ -517,7 +518,7 @@ Consecrated or Ordered according to the same Rites, we decree all such to be rig
             <div n="39" type="article">
                <head>XXXIX. Of A Christian man's Oath.</head>
                <p>AS we confess that vain &amp; rash Swearing is forbidden Christian men by our Lord Jesus Christ, &amp; <hi>James</hi> His Apostle; so we judge that Christian Religion doth not prohibit, but that a man
-<pb n="14" facs="tcp:000448_0015_0FA5B08350EACB98"/>
+<pb n="14" facs="unknown:000448_0015_0FA5B08350EACB98"/>
 may Swear when the Magistrate requireth, in a Cause of Faith and Charity, so it be done according to the Prophet's Teaching, in <hi>Justice, Judgment, and Truth.</hi>
                </p>
             </div>
